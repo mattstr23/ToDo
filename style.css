@@ -1,0 +1,12 @@
+body{
+    background-color: #f0f0f0;
+
+}
+
+.mainCont{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 80vh;
+    width: 80vw;
+}
